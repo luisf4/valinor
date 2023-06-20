@@ -140,6 +140,7 @@
     padding: 40px 0;
 }
 
+
 /* para ficar responssivel no mobile = vulgo não ficar inutilizavel  */
 @media only screen and (max-width: 600px) {
     .project-card { 
